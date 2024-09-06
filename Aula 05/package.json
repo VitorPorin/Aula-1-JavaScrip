@@ -1,0 +1,5 @@
+let objeto = {
+    "nome": "Vitor Rezende",
+    "idade": 31,
+    "altura": 1.
+}
